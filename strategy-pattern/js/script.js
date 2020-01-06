@@ -24,8 +24,6 @@ const Player = function() {
   }
 
   return { // colocando os métodos públicos
-    setName,
-    getName,
     getWeapon,
     setWeapon,
     attack
